@@ -1,5 +1,5 @@
 <size=120%><b>[ Super VIP ]</b></size>
-────────
+──────────────
 
 belilily
 Cloifaunt
@@ -12,7 +12,7 @@ Peruseusu
 
 
 <size=120%><b>[ VIP ]</b></size>
-────────
+──────────────
 
 『루셰』ルウシェ
 2Randa
@@ -111,7 +111,7 @@ Zoey
 
 
 <size=120%><b>[ Patron ]</b></size>
-────────
+──────────────
 
 _まど_
 Aidanmash
