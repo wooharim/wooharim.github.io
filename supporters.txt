@@ -1,5 +1,6 @@
-Super VIP
+<size=120%><b>[ Super VIP ]</b></size>
 ────────
+
 belilily
 Cloifaunt
 Kosmik_
@@ -9,8 +10,10 @@ Peruseusu
 水果 辣顆
 緒方リナ
 
-VIP
+
+<size=120%><b>[ VIP ]</b></size>
 ────────
+
 『루셰』ルウシェ
 2Randa
 8げんまい8
@@ -106,8 +109,10 @@ Zoey
 魚
 龍神黒墨
 
-Patron
+
+<size=120%><b>[ Patron ]</b></size>
 ────────
+
 _まど_
 Aidanmash
 Amber
@@ -123,3 +128,4 @@ zi_yeul
 しゅんっ
 御庭/白路路
 星野の薫
+
