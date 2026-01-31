@@ -22,6 +22,7 @@ Temporal
 ゆ
 水果 辣顆
 緒方リナ
+龍神黒墨
 
 
 <size=120%><b>[ VIP ]</b></size>
@@ -177,7 +178,6 @@ Zoey
 赤城 愛
 駿 山口
 魚
-龍神黒墨
 
 
 <size=120%><b>[ Patron ]</b></size>
