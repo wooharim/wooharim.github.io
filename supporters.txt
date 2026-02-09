@@ -17,6 +17,7 @@ NinTa
 Peruseusu
 Septciel
 takakong
+Taku
 Temporal
 Tetrit 테트릿
 Vel Vel
