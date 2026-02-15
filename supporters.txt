@@ -22,7 +22,6 @@ Peruseusu
 Septciel
 Shiba0
 takakong
-Taku
 Temporal
 Tetrit 테트릿
 Vel Vel
@@ -43,6 +42,7 @@ wefow
 天音
 水果 辣顆
 緒方リナ
+茜（Akane）
 龍 天
 龍神黒墨
 
@@ -155,6 +155,7 @@ Rinko Polo
 risorah (vivian)
 Rossi -46
 RUCY
+Rui Shironeko
 Ruka
 Rusty Nail
 ryansaur
