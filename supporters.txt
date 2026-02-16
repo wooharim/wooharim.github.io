@@ -21,6 +21,7 @@ NinTa
 Peruseusu
 Septciel
 Shiba0
+shinsajang
 takakong
 Temporal
 Tetrit 테트릿
