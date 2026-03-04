@@ -35,7 +35,6 @@ Shiba0
 shinsajang
 takakong
 Temporal
-Tetrit 테트릿
 Vel Vel
 wefow
 Yuu9
@@ -91,7 +90,6 @@ Antheia
 apolloScylla
 Aruto_402
 Ayamay
-BeginX
 Belle
 Bellvall
 BENG
