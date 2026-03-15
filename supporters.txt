@@ -122,7 +122,6 @@ FlameKnight7
 Flarlick
 FoxRain
 fujinomiya
-Full Moon
 FURORAITO
 Gangdo
 Ghost_glow
@@ -318,6 +317,7 @@ Zexpha
 彼岸常雨
 月 狩
 有栖 榊
+望月
 神楽 夜御
 空 沈黙の
 紅月
