@@ -39,7 +39,7 @@ Septciel
 Shiba0
 shinsajang
 takakong
-TAKUMIN JP
+takumin
 Temporal
 Tetrit 테트릿
 Vel Vel
