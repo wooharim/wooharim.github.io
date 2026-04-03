@@ -44,7 +44,6 @@ Temporal
 Tetrit 테트릿
 Vel Vel
 wefow
-ৡۣElrina༒
 김 눈굴
 라 벨
 리냐_LINYA
@@ -99,7 +98,6 @@ Ayamay
 Belle
 Bellvall
 blanc（ぶらん）
-Booplesnoot
 Box Bunny
 Chef Oda
 chi 7
@@ -282,6 +280,7 @@ Zexpha
 こなちゃ
 ざくざくざく
 しゅんっ
+ジョウ 無
 しょくぱん
 すいーと
 すにーきーぱい
