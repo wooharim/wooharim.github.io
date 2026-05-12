@@ -147,7 +147,6 @@ Belle
 Bellvall
 blanc（ぶらん）
 Blueberry Bud
-Blueberry Softie
 Booplesnoot
 bootjp
 Bossogen
@@ -316,6 +315,7 @@ Valérie
 ViridiTea
 WazaZombie
 Willey
+Wisteria
 Xveriana
 Y O
 yami yaduki
