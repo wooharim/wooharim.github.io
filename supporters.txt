@@ -65,6 +65,7 @@ so uki
 SORN
 stremanic
 takakong
+TAKU
 takumin
 Temporal
 Tetrit 테트릿
