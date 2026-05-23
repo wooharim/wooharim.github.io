@@ -26,6 +26,7 @@ ExoTrickz
 ExploitedDragon
 Feral Stella
 Furry Hideout
+Gamja
 Gjasminoides
 GummiSammi
 Harumichi_
@@ -455,7 +456,6 @@ Zexpha
 
 ...
 A W.
-Gamja
 SSS
 こ きのこの
 たぎうい
