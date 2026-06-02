@@ -148,6 +148,7 @@ Arugo
 Aruto_402
 Aya
 Ayamay
+AzureFish
 Bailey Mudpaw
 BeginX
 Belle
@@ -447,7 +448,6 @@ Zexpha
 赤城 愛
 飴 五月
 駿 山口
-魚
 鳩ぽっぽ
 
 
