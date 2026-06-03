@@ -155,7 +155,6 @@ Belle
 Bellvall
 blanc（ぶらん）
 Blueberry Bud
-Booplesnoot
 bootjp
 Bossogen
 Box Bunny
@@ -334,7 +333,6 @@ Zexpha
 겸 유
 경 액
 김쪼쭈
-깡통계 스타레일
 냥이 고
 도영 김
 동형 이
@@ -442,8 +440,6 @@ Zexpha
 空 沈黙の
 紅月
 花と春_
-草壁 晶 スバ友
-菜 蒼
 葵衣 なつ
 貓貓 劉
 赤城 愛
