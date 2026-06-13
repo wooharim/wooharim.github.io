@@ -79,7 +79,6 @@ Tetrit 테트릿
 ToTTo
 Vel Vel
 wefow
-Yuki Hiragino
 yuut
 Ичжо Чэнь
 ничто
@@ -168,7 +167,6 @@ DAiSYLiN x
 dds
 Deashley Tima
 Demon1234
-DingoTime
 Dronee pl
 DSBDRIFTER
 Dtz
@@ -196,7 +194,6 @@ Grays
 HalloW
 hanabi_elias
 Hanako
-happyweb
 HARI
 Heidi
 Hekitoro
