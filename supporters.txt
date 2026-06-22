@@ -246,6 +246,7 @@ necoco
 Nero's MMD
 newkey
 Nobu08
+Nori
 oftn_nknk
 OnlyVibes
 P
@@ -277,7 +278,6 @@ SandMel
 Senpoopy
 shi kizhu
 Shiraha-
-shokupan
 SiroYuki
 SixStorms
 sk Nosuke
@@ -367,6 +367,7 @@ Zexpha
 シノ ニシヅキ
 しゅんっ
 ジョウ 無
+しょくぱん
 すにーきーぱい
 そい
 だーやま。
