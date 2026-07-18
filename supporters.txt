@@ -69,7 +69,6 @@ stremanic
 takakong
 TAKU
 takumin
-Temporal
 Tetrit 테트릿
 ToTTo
 Vel Vel
@@ -317,7 +316,6 @@ zero mu
 얼음나무 (icetree)
 에용
 정민 이
-청포도 슬라임맛
 카스 코
 코레디(koreidi)
 あいりす［Iris］
