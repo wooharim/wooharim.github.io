@@ -251,6 +251,7 @@ peru ペル
 PinkBread
 PinkFoxGirl
 pozipozi
+PROTOTYPE 阿車
 putitoro
 R_Alastor
 Rala
