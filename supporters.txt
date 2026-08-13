@@ -75,6 +75,7 @@ TAKU
 takumin
 Tetrit 테트릿
 ToTTo
+Valkara
 Vel Vel
 wefow
 Yuki Hiragino
