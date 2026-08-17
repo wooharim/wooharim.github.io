@@ -72,7 +72,6 @@ SORN
 stremanic
 SuccuBunneh
 takakong
-TAKU
 takumin
 Tetrit 테트릿
 ToTTo
@@ -90,7 +89,6 @@ Yuki Hiragino
 스코시즘
 짱 치
 초링_ _
-헤구
 호박고양이
 あああえああ
 うなぎ99
@@ -108,7 +106,6 @@ Yuki Hiragino
 水果 辣顆
 由宇樹ゆう（Yuu9）
 白雪
-豚 焼き
 龍神黒墨
 
 
@@ -117,7 +114,6 @@ Yuki Hiragino
 
 _
 _ taya
-____YUU____
 __Ｎ__
 。 maru
 0miz
@@ -184,7 +180,6 @@ Heidi
 Hekitoro
 Hii27
 Hipustar
-HOTMILK
 huuuta
 iMrKitty
 Jack
@@ -333,6 +328,7 @@ zeki
 정민 이
 카스 코
 코레디(koreidi)
+헤구
 あ
 あい う
 あいりす［Iris］
@@ -423,7 +419,6 @@ zeki
 王子 水晶蜜桃
 空絵 冬乃
 窝窝头w
-紅月
 結音 琴雨
 芙由 河野
 花と春_
