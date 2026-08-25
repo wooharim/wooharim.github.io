@@ -244,6 +244,7 @@ necoco
 NekoAndy
 Nero's MMD
 newkey
+Nifty
 Noa
 Nobu08
 oftn_nknk
