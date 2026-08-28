@@ -78,6 +78,7 @@ takakong
 TAKU
 takumin
 Tetrit 테트릿
+Thalia
 to Hu
 ToTTo
 Valkara
