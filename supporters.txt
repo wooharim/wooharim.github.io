@@ -89,7 +89,6 @@ Vel Vel
 wefow
 Yuki Hiragino
 Ичжо Чэнь
-감자 김
 김 눈굴
 라 벨
 리냐_LINYA
@@ -347,7 +346,6 @@ Zeniac
 서기
 선 추
 셰아나
-수밤 여
 수혀기
 아랑 찬
 아일란
@@ -369,7 +367,6 @@ Zeniac
 エフエフ
 えみ くー
 エル-Elzia-
-おざきふぁり
 おれお34
 かい す
 カイト・オクタ
@@ -478,6 +475,7 @@ Zeniac
 A W.
 MikoHaibara
 SHANZHONGLAI
+감자 김
 こ きのこの
 てんぷらリュウ
 ときね。
