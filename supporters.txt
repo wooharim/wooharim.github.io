@@ -317,6 +317,7 @@ putitoro
 R_Alastor
 Rala
 Ramia
+Raven
 Rei Zombie
 ribe
 Rinkei_
