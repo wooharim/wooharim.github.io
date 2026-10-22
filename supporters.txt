@@ -206,7 +206,6 @@ FURORAITO
 FuseFinal
 GALALA
 Game らいむ
-Genuine Penguine
 Grays
 GummiSammi
 HalloW
@@ -367,6 +366,7 @@ yuradai
 yushia
 zeki
 Zeniac
+Zexpha
 겸 유
 냥이 고
 도영 김
@@ -519,6 +519,7 @@ Zeniac
 ──────────────
 
 A W.
+Genuine Penguine
 MikoHaibara
 감자 김
 こ きのこの
