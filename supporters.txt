@@ -302,11 +302,9 @@ Pedicta
 Pedion
 peru ペル
 PinkBread
-Polgara Rose
 pozipozi
 PROTOTYPE 阿車
 puchicola
-puri_san
 putitoro
 R_Alastor
 Rala
@@ -318,6 +316,7 @@ ribe
 Rinkei_
 Rinko Polo
 Rossi -46
+rozeo
 RUCY
 Rui Shironeko
 ruimi（るいみ）
