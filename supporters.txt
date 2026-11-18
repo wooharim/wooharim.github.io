@@ -26,9 +26,9 @@ carrot____
 Cat_In_Box
 Charming
 Cloifaunt
+CyanShine
 Daniel Hernandez
 Danimals
-Ecodipin
 eitys3
 Emo
 Eric Schrand
@@ -451,6 +451,7 @@ Zuri
 にこん にこん
 にょろ
 ヌウア
+ねこ_slp
 ねこにゃんこ
 ねこみや
 のあちゃみ
